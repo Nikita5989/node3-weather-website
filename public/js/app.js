@@ -1,5 +1,3 @@
-//const fetch = require('node-fetch');
-//console.log("new js file created to test")
 
 
 
